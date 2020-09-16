@@ -76,19 +76,19 @@ how you would approach clustering problem let's have a look:-
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f0499405-1197-4b43-b7c5-40548eeb9f34/File/9b5d5bd03696c340d213ba9af955b13c/clustering_and_k_means_machine_learning.png" alt="black data set">
 Now we have data sets like everything is black now our job is to color some of these as red and some of these as green
 And to do that initially you can obviously look at the things and color some of them as red and some as green and cluster those two things so what do you need for clustering let's have a look <br>
-# Proximity measure
+#  Proximity measure
 So 1st we need to do is to calculate proximity measure, it is the vector distance between two clusters,
 One of the method used for proximity is euclidean distance it is calculated as, 
 D=√((x1-x2)^2+(y1-y2)^2)<br>
 <img src="https://miro.medium.com/max/1784/1*jQnOPXvpgbmH4Yp0T8--dA.png" alt="euclidian distance"><br>
-# Evaluation criteria
+#  Evaluation criteria
 <img src="https://miro.medium.com/max/1574/1*UrTFgcUrxq5C-wOUFvxCkQ.png" alt="evaluation criteria">
 2)second thing you also need is now once yow create cluster you also need to see what a good cluster looks like and so there are some measures called evaluation criteria these will tell us how far two clusters are or how close points of one cluster are.
 So that's how you would approach cluster problem.
-# k-means 
+#  k-means 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrVRURkx4eR9pUHx-QyLe2jq5ckAu3UKY6dA&usqp=CAU" alt="k-means clusters">
 To decide whether we get good results of clusters k-means plays an important role
-# k-means algorithm:-
+#  k-means algorithm:-
 Now we are going to study one such approach to clustering which is called as k-means it's one of the famous algorithm for clustering 
 <img src="https://www.oliviergibaru.org/courses/img/BeforeClustering.png" alt="clustering initial img">
 Now,  these points are not labeled eventually they look separate afterwards it performs many iteration on dataset and eventually come up with good ans,
@@ -289,6 +289,6 @@ So at the end we all can see how we start to explore data & we start to see thin
 </a>
 <a href="https://m.facebook.com/shivani.kulkarni.5015?ref=bookmarks/">
  <img align="left"  width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a><br>
 
 ***thanks for reading*** :heart:
